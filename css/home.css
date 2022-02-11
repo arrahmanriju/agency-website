@@ -1,0 +1,12 @@
+.blog__content {
+  border: 1px solid #eaeaea;
+  width: 370px;
+  height: 585px;
+}
+
+.blog__content-content {
+  width: 370px;
+  height: 292px;
+  background-color: #e72323;
+}
+/*# sourceMappingURL=home.css.map */
